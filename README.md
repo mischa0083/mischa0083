@@ -1,7 +1,6 @@
-# mischa0083
 
-Here is a list of things that I enjoy:
+Hi there 👋, I'm @mischa0083
 
-- Baldur's Gate 3
-- Fullmetal Alchemist
-- Bench Pressing
+I'm currently working on the GitHub Enterprise Team at GitHub.
+
+I like to play Baldur's Gate 3!
